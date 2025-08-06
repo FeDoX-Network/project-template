@@ -1,0 +1,1 @@
+## fancy project setup for FeDoX-Network projects
