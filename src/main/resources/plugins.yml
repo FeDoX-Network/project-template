@@ -1,0 +1,17 @@
+# Plugin Information
+name: ${NAME}
+version: ${VERSION}
+description: ${DESCRIPTION}
+author: ${AUTHOR}
+authors: [${AUTHORS}]
+website: ${WEBSITE}
+main: ${MAIN}
+
+# API Configuration
+api-version: "1.21"
+load: STARTUP
+
+# Dependencies
+depend: []
+softdepend: []
+loadbefore: []
